@@ -1,0 +1,54 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+#icon {
+    width: 68px;
+    height: 68px;
+}
+
+#img1 {
+    width: 400px;
+    height: 320px;
+    border: solid;
+    border-color: white;
+    border-bottom-width: thick;
+    border-top-width: thick;
+    border-left-width: thick;
+    border-right-width: thick;
+}
+
+#img2 {
+    width: 400px;
+    height: 320px;
+    border: solid;
+    border-color: white;
+    border-top-width: thick;
+    border-bottom-width: thick;
+    border-left-width: thick;
+    border-right-width: thick;
+
+}
+
+#img3 {
+    width: 400px;
+    height: 320px;
+    border: solid;
+    border-color: white;
+    border-top-width: thick;
+    border-bottom-width: thick;
+    border-left-width: thick;
+    border-right-width: thick;
+}
+
+#img4 {
+    width: 400px;
+    height:320px;
+    border: solid;
+    border-color: white;
+    border-top-width: thick;
+    border-bottom-width: thick;
+    border-left-width: thick;
+    border-right-width: thick;
+}
